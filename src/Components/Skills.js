@@ -22,11 +22,11 @@ function Skills() {
   return (
     <div id="skills"className="bg-black-100 p-8 rounded-lg shadow-lg">
       <h2 className="text-2xl font-bold mb-4 items-center text-center">Skills</h2>
-      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-6">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-5">
         {skills.map((skill, index) => (
           <div
             key={index}
-            className="flex flex-col items-center text-center p-4 bg-white rounded-lg shadow-md transform hover:scale-105 transition-transform duration-300"
+            class="flex flex-col items-center text-center p-6 bg-white rounded-lg shadow-md transform hover:scale-105 transition-transform duration-200 hover:bg-red-300"
           >
             <FontAwesomeIcon icon={skill.icon} size="2x" className="text-blue-500 mb-2" />
             <p className="mt-2 text-lg font-medium">{skill.name}</p>
