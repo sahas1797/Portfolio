@@ -5,7 +5,7 @@ const experiences = [
     company: 'Innovapath IT Solutions',
     role: 'UI Developer',
     period: 'Nov 2021 - Present',
-    description: 'Talent Screen is a portal application that helps recruiters in achieving staffing objectives    and evaluating job candidates and the UI of the application built using HTML5, CSS3, JavaScript, Bootstrap, React and other packages. Talent Screen has backend services in Node.js and MongoDB as the functional databases. '
+    description: 'Talent Screen is a portal application that helps recruiters in achieving staffing objectives    and evaluating job candidates and the UI of the application built using HTML5, CSS3, JavaScript, Bootstrap, React and other packages. Talent Screen has backend services in Node.js and SQL as the functional databases. '
   },
 
 
