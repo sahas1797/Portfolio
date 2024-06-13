@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHtml5, faCss3Alt, faJs, faReact, faNodeJs } from '@fortawesome/free-brands-svg-icons';
+import { faHtml5, faCss3Alt, faJs, faReact, faNodeJs, faJava, faGithub, faBootstrap, faLinux } from '@fortawesome/free-brands-svg-icons';
 import { faDatabase } from '@fortawesome/free-solid-svg-icons';
 
 const skills = [
@@ -10,6 +10,12 @@ const skills = [
   { icon: faReact, name: 'React' },
   { icon: faNodeJs, name: 'Node.js' },
   { icon: faDatabase, name: 'SQL/NoSQL' },
+  { icon: faJava, name: 'Java' },
+  { icon: faGithub, name: 'Git' },
+  { icon: faBootstrap, name: 'Bootstrap' },
+  { icon: faLinux, name: 'Linux' },
+
+
 ];
 
 function Skills() {

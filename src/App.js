@@ -5,6 +5,9 @@ import Skills from './Components/Skills';
 import About from './Components/About';
 import Experience from './Components/Experience';
 import Footer from './Components/Footer';
+import Education from './Components/Education';
+import FloatingLinkedInLink from './Components/FloatingLinkedInLink';
+
 
 function App() {
   return (
@@ -13,8 +16,11 @@ function App() {
     <Home/>
     <About/>
     <Skills/>
+    <Education/>
     <Experience/>
     <Footer/>
+    <FloatingLinkedInLink/>
+
    
     
   </body>
