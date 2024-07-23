@@ -40,7 +40,7 @@ function Header() {
         <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
           <div className="flex items-center lg:order-2">
             <a
-              href="https://drive.google.com/file/d/1Ikb6AFfoWFDEgtQZ0cfD_Ym2hJiqE8Lc/view?usp=sharinghas_UI.pdf"
+              href="https://drive.google.com/file/d/1Ueuv37ZmTFMHRWuuhuLfwMtbL5cEvie7/view?usp=sharing"
               download="Resume.pdf"
               className="text-white bg-red-600 hover:bg-red-700 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 lg:mr-0 dark:bg-red-400 dark:hover:bg-red-500 dark:text-white focus:outline-none dark:focus:ring-red-500"
             >

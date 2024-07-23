@@ -5,7 +5,7 @@ const experiences = [
     company: 'Innovapath IT Solutions',
     role: 'UI Developer',
     period: 'Nov 2021 - Present',
-    description: 'Talent Screen is a portal application that helps recruiters in achieving staffing objectives    and evaluating job candidates and the UI of the application built using HTML5, CSS3, JavaScript, Bootstrap, React and other packages. Talent Screen has backend services in Node.js and SQL as the functional databases. '
+    description: 'Whitebox Learning (WBL) is a comprehensive classroom and online-based training program designed specifically for developers and quality engineers. The flexible training options cater to both individual learners and corporate teams, making it easier than ever to upskill and stay competitive in the rapidly evolving tech industry.'
   },
 
 
@@ -14,7 +14,7 @@ const experiences = [
     company: 'FinMkt',
     role: 'Software Engineer',
     period: 'Apr 2021 - Aug 2021',
-    description: 'Analyzed user requirements to develop software solutions and created technical specifications. Developed, tested, debugged and documented software programs using Java, JavaScript and HTML and CSS.  Monitored system performance and troubleshoot issues in production environment. Designed databases to store application data using SQL Server or MongoDB technologies.'
+    description: 'FinMkt a cloud-based technology powers innovative consumer lending, point of sale financing, and payment solutions for lenders and enterprise partners of all sizes.'
   },
 ];
 

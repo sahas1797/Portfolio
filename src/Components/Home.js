@@ -28,11 +28,11 @@ function Home() {
   };
 
   const pRole = {
-    fontFamily : 'Courier New',
-    fontSize : '23px',
+    fontFamily : 'Courier',
+    fontSize : '32px',
     margin: '0',
     color: '#333',
-    textShadow: '5px 5px 4px rgba(0, 0, 0, 0.5)'
+    textShadow: '5px 5px 4px rgba(0, 0, 0, 0.3)'
 
   };
 
