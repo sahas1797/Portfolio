@@ -3,7 +3,7 @@ import React from 'react';
 const experiences = [
   {
     company: 'Innovapath IT Solutions',
-    role: 'UI Developer',
+    role: 'Web Developer',
     period: 'Nov 2021 - Present',
     description: 'Whitebox Learning (WBL) is a comprehensive classroom and online-based training program designed specifically for developers and quality engineers. The flexible training options cater to both individual learners and corporate teams, making it easier than ever to upskill and stay competitive in the rapidly evolving tech industry.'
   },
